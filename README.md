@@ -1,5 +1,6 @@
 # Hunt The Wumpus
 A graphical reproduction of the game "Hunt The Wumpus" developed by Texas Instruments in 1972.
+
 Created By: Rajeev Ram (2018)
 
 ##  Overview
@@ -16,7 +17,7 @@ wrong the direction the arrow will pierce you in the back!
 This rendition of the game includes both the console version (ConsoleMain) and a graphical version (WumpusMain)
 with two views – text and image.
 
-<img src='https://imgur.com/a/NEmmcrfgif' title='Wumpus GUI Walkthrough' width='' alt='Hunt The Wumpus' />
+<img src='https://imgur.com/a/NEmmcrf.gif' title='Wumpus GUI Walkthrough' width='' alt='Hunt The Wumpus' />
 
 ## Tasks (User Stories)
 Console Game:
@@ -48,8 +49,9 @@ Graphical Game:
 ## Structure and Design
 
 The main design pattern used in this project is the Observer. The Composite design pattern is used for the graphical view. There are
-four packages (Model, View, Controller, Tests) and six classes total excluding the test class. Watch the video for a more detailed 
-project walkthrough (to-do upload video)
+four packages (Model, View, Controller, Tests) and six classes total excluding the test class. 
+
+Watch the following video for a more detailed  project walkthrough (to-do upload video)
 
 ## Code Coverage (JUnit)
 
