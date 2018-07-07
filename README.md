@@ -17,7 +17,7 @@ wrong the direction the arrow will pierce you in the back!
 This rendition of the game includes both the console version (ConsoleMain) and a graphical version (WumpusMain)
 with two views – text and image.
 
-<img src='https://imgur.com/a/NEmmcrf.gif' title='Wumpus GUI Walkthrough' width='' alt='Hunt The Wumpus' />
+<img src='https://imgur.com/IDi76P7.gif' title='Wumpus GUI Walkthrough' width='' alt='Hunt The Wumpus' />
 
 ## Tasks (User Stories)
 Console Game:
