@@ -51,7 +51,8 @@ Graphical Game:
 The main design pattern used in this project is the Observer. The Composite design pattern is used for the graphical view. There are
 four packages (Model, View, Controller, Tests) and six classes total excluding the test class. 
 
-Watch the following video for a more detailed  project walkthrough (to-do upload video)
+Watch the following video for a more detailed project walkthrough:
+https://youtu.be/uRh5Yrj_DCw
 
 ## Code Coverage (JUnit)
 
